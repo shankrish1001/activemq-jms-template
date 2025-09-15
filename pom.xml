@@ -52,6 +52,7 @@
 	</dependencies>
 
 	<build>
+		<finalName>activemq-jms-template</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>

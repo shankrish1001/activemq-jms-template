@@ -6,3 +6,6 @@ docker run -d --name activemq -p 61616:61616 -p 8161:8161 rmohr/activemq
 Admin Web Console: http://localhost:8161/
 Broker JMS URL: tcp://localhost:61616
 
+(OR)
+docker-compose up --build
+
